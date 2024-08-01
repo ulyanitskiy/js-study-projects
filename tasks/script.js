@@ -1,13 +1,13 @@
 'use strict';
 
 /* Task #1 */
-let name = "John";
-let admin = name;
+const name = "John";
+const admin = name;
 alert(admin);
 
 /* Task #2 */
-let planetName = "Earth";
-let visitorName = "Alex";
+const planetName = "Earth";
+const visitorName = "Alex";
 
 /* Task #3 */
 const sum = '10' + 10;
